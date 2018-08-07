@@ -1,0 +1,22 @@
+{
+  "name": "packageassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http_request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktoroshchin/package-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktoroshchin/package-assignment/issues"
+  },
+  "homepage": "https://github.com/ktoroshchin/package-assignment#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
